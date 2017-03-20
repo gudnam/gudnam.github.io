@@ -1,9 +1,9 @@
 ---
 layout: post
 categories: Study
-tags: [Kotlin, MVP, DI]
+tags: [Kotlin, Bandhook]
 author: Gudnam
-title: 코틀린에서 DI 를 통해 MVP 모델을 구현해보자
+title: BandHook App 분석
 ---
 <div class="message"> 
 	최근에 아이오에서 베타로 나갈 데모 서버 개발을 진행하게 됐는데 이 때 스칼라라는 함수형 언어를 처음 써봤다. 참 매력적이더라. 다음 안드로이드 앱은 코틀린으로 간다! Github 에서 Bandhook 이란 좋은 샘플을 발견해 공부해보기로 했다~!
