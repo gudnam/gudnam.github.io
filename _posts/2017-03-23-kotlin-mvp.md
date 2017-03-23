@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: Study
-tags: [Kotlin, MVP, DI]
+tags: [Kotlin, DI]
 author: Gudnam
 title: 코틀린에서 MVP 패턴 사용해보자!
 ---
