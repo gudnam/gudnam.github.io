@@ -175,4 +175,4 @@ class MainActivity : BaseActivity(), MainView {
 }
 {% endhighlight %}
 
-### Test
+다음 포스팅은 Kotlin에 Unit Test 환경 구축하기!
