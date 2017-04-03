@@ -184,3 +184,7 @@ Activity(View)에서 특정 이벤트 발생 시 이를 Presenter 에게 알려�
 그렇다면 initialize 대신 메소드 이름은 onCreate, onCreateView, onResume 같은 Activity 에서 발생한 메소드명으로 하는게 좋겠다. 
 
 사소한 것이라 생각할 수 있지만 이런 생각의 차이가 객체간의 Coupling 으로 이어질 수 있겠다.
+
+## 샘플 코드
+
+https://github.com/gudnam/android-kotlin/tree/master/kotlin-mvp
