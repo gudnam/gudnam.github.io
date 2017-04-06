@@ -14,7 +14,7 @@ title: 왜 안드로이드 CI로 Bitrise를 선택했을까?
 
 ## CI 후보
 
-+ **Bitrise**
++ **[Bitrise](https://www.bitrise.io/)**
 + CircleCI
 + Jenkins
 
